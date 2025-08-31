@@ -37,7 +37,7 @@
 
 ## Report
 The full project write-up with methodology, robustness tests, and advanced analysis is available here:  
-[📄 ML_Final_Project.pdf](docs/ML_Final_Project.pdf)
+[ ML_Final_Project.pdf](/ML_Final_Project.pdf)
 
 ---
 
