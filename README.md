@@ -6,7 +6,7 @@
 
 ## Report
 The full project write-up is available here:  
-[ML_Final_Project.pdf](docs/ML_Final_Project.pdf)
+[ML_Final_Project.pdf]
 
 ---
 
